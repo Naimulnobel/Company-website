@@ -1,0 +1,84 @@
+.Header{
+    background-color:#f2f2f2;
+
+    display:flex;
+}
+
+.heading-deaprtment{
+    flex: 1;
+}
+.logo{
+    
+    flex: 7;
+}
+.heading-aboutus{
+    flex: 1;
+}
+.heading-contact{
+    flex: 1;
+}
+.logo-image{
+    width: 100px;
+    height: 50px;
+}
+.application{
+    display:flex;
+
+}
+h1{
+    text-align: center;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+.Department-content{
+    display: flex;
+}
+.development{
+    padding-left: 40px;
+    flex: 2;
+}
+.quality{
+   
+    flex: 2;
+}
+.database{
+    flex: 2;
+}
+ .design{
+    padding-right: 40px;
+     flex: 1;
+ }   
+ .information-of-company{
+    background-color: #015e54;
+    display:flex;
+ }
+.who-we-are{
+    padding-left:200px;
+    flex: 1;
+}
+.WHAT-WE-DO{
+    flex: 1;
+}
+.contact-title{
+    background-color: #32a1a3;
+}
+.locationandcontactinfo{
+    display: flex;
+}
+.map{
+    flex: 1;
+}
+.contact-info{
+    
+    flex: 1;
+}
+pre{
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    text-align: justify;
+    font-size: 25px;
+}
+
+.footer{
+    text-align: center;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    padding: 10;
+}
